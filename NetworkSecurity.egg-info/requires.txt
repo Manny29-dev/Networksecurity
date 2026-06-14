@@ -3,5 +3,5 @@ numpy
 seaborn
 scikit-learn
 matplotlib
-pymango
+pymongo[srv]==3.12
 certifi

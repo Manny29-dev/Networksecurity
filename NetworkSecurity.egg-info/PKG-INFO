@@ -1,14 +1,14 @@
 Metadata-Version: 2.4
 Name: NetworkSecurity
 Version: 0.0.1
-Author: Krish Naik
-Author-email: krishnaik06@gmail.com
+Author: Imanuvel
+Author-email: imanuveljs@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
-Requires-Dist: pymango
+Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: certifi
 Dynamic: author
 Dynamic: author-email
