@@ -5,8 +5,3 @@ scikit-learn
 matplotlib
 pymango
 certifi
--e .
-
-#env1
-
-
